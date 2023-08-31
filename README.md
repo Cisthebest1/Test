@@ -1,2 +1,2 @@
 # Test
-it is used for getting familiar with the operations
+it is used for getting familiar with the operations.
